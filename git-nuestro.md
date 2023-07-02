@@ -1,17 +1,19 @@
-Git nuestro
+*Git* nuestro que estás en los repos
 
-Git nuestro que estas en los repos Comprimidos sean tus commits
+Comprimidos sean tus *commits*
 
-Venga a nosotros tu log
+Venga a nosotros tu *log*
 
-En el local como en el remote
+En el local como en el *remote*
 
-Danos hoy nuestro pull de cada día
+Danos hoy nuestro *pull* de cada día
 
-Perdona nuestros conflictos
+Perdona nuestros *conflictos*
 
-Como también perdonamos los de otros geeks No nos dejes caer en detached HEAD
+Como también perdonamos los de otros geeks
 
-y líbranos de SVN
+No nos dejes caer en *detached HEAD*
 
-git commit --amend
+y líbranos de *SVN*
+
+`git commit --amend`
